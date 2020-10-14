@@ -93,7 +93,7 @@
 
     <a href="register.php">Go to register</a>
     <br>
-    <a href="forgotpassword.php">Forgot your password?</a>
+    <a href="forgotpassword2.php">Forgot your password?</a>
     
 </body>
 </html>

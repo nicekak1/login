@@ -31,11 +31,12 @@
             }
         } else {
             echo "<script>alert('User หรือ Password ไม่ถูกต้อง);</script>";
-        }
+                }
 
-    } else {
+    } 
+    else {
         header("Location: index.php");
-    }
+            }
 
 
 ?>
